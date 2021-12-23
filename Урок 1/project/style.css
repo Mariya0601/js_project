@@ -1,0 +1,19 @@
+.products {
+    display: flex;
+}
+.product-item {
+    padding: 60px;
+}
+h3 {
+    font-size: 50px;
+}
+p {
+    font-size: 40px;
+}
+button {
+    padding: 25px 80px;
+    font-size: 30px;
+}
+.btn-cart {
+    margin-left: 1200px;
+}
